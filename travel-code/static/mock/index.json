@@ -1,0 +1,94 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1807/78/0a6355bcbbf89502.jpg_750x200_fc738633.jpg"
+    },{
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/4d/3dc09bcc290f0c02.jpg_750x200_09c97d67.jpg"
+    },{
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/2f/5d414b44b44a4c02.jpg_750x200_99fa3ea3.jpg"
+    }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "imgInfo": "热门景点"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "imgInfo": "一日游"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "imgInfo": "杭州必游"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "imgInfo": "动植物园"
+      },{
+        "id": "0005",
+        "imgUrl": "https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "imgInfo": "打卡圣地"
+      },{
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+        "imgInfo": "西湖"
+      },{
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+        "imgInfo": "杭州乐园"
+      },{
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+        "imgInfo": "西溪湿地"
+      },{
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png",
+        "imgInfo": "千岛湖"
+      }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/12/4e6170303c63bdb7070fb1987480afab.water.jpg_200x200_0775a71c.jpg",
+      "title": "杭州极地海洋世界",
+      "info": "模拟生态环境里与海洋动物亲密接触"
+    },{
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1809/6b/6b0d71ae741a583da3.img.jpg_200x200_dc19cbb1.jpg",
+      "title": "杭州乐园",
+      "info": "杭州本月收藏Top5╰(￣▽￣)╭"
+    },{
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/28/288fbeccc335f774a3.img.jpg_200x200_4a81bde9.jpg",
+      "title": "印象西湖",
+      "info": "帅的人都去过了😎，你还等什么~"
+    },{
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/b6/662fc49d1d26a5a7775cf6b7f8b4ecec.water.jpg_200x200_7dec115f.jpg",
+      "title": "杭州野生动物世界",
+      "info": "多功能综合性生态公园"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg",
+      "title": "美丽普陀山",
+      "info": "人间仙境杭州，佛教圣地普陀山等你来玩！"
+    },{
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1509/fb/c45a951a9b4305.jpg_r_640x214_26fcfd26.jpg",
+      "title": "温州动人秋色",
+      "info": "细数温州那些美到陶醉的赏秋地"
+    },{
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/a3/9c9d78e925e8bc.jpg_r_640x214_74656d68.jpg",
+      "title": "泡汤好去处",
+      "info": "泡在氤氲的温泉中，聆听秋天脚步的声音"
+    },{
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1510/c1/afe3ab32b3bc23.jpg_r_640x214_beb61760.jpg",
+      "title": "青山秀水，精致暖汤",
+      "info": "天然高品质温泉，这个冬天秀美容颜首选"
+    }]
+  }
+}

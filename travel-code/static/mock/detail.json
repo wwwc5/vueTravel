@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "杭州极地海洋世界(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1508/12/4e6170303c63bdb7070fb1987480afab.water.jpg_600x330_8db91d9d.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1508/12/4e6170303c63bdb7070fb1987480afab.water.jpg_600x330_8db91d9d.jpg", "http://img1.qunarzz.com/sight/p0/201403/07/baf02b36fbd3e3405e28e27ab9598d26.jpg_r_800x800_899034fa.jpg", "http://img1.qunarzz.com/sight/p0/1508/44/c20461bdf7f0b1b2ad0e1ef9351e34cf.water.jpg_r_800x800_5dbd9925.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}

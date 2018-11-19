@@ -1,0 +1,8 @@
+$bg-color: #00bcd4;
+$darkTextColor: #333333;
+@mixin ellipsis{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+};
+
